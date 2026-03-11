@@ -1,0 +1,21 @@
+{
+    "name": "testing1_toctoc_min_1_1",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T05:14:20.259343",
+    "tags": [],
+    "version": "5.5",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.53,
+        "lfo_freq": 0.1,
+        "lfo_depth": 0.0,
+        "attack_time": 0.001,
+        "decay_time": 0.01,
+        "sustain_level": 0.0,
+        "release_time": 0.05,
+        "cutoff": 200,
+        "resonance": 0.2,
+        "detune_mode": "sutil",
+        "detune_amount": 0.0
+    }
+}

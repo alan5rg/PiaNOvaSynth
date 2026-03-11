@@ -1,0 +1,21 @@
+{
+    "name": "testing3_googtrumpet_3_3_mid",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T05:18:05.239055",
+    "tags": [],
+    "version": "5.5",
+    "parameters": {
+        "waveform": "saw",
+        "amplitude": 0.17,
+        "lfo_freq": 4.877989999999999,
+        "lfo_depth": 0.52,
+        "attack_time": 0.25,
+        "decay_time": 1.005,
+        "sustain_level": 0.5,
+        "release_time": 2.381,
+        "cutoff": 9408,
+        "resonance": 5.3,
+        "detune_mode": "supersaw",
+        "detune_amount": 1.0
+    }
+}

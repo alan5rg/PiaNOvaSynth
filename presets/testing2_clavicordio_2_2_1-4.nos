@@ -1,0 +1,21 @@
+{
+    "name": "testing2_clavicordio_2_2_1/4",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T05:16:21.833672",
+    "tags": [],
+    "version": "5.5",
+    "parameters": {
+        "waveform": "square",
+        "amplitude": 0.05,
+        "lfo_freq": 0.9775899999999997,
+        "lfo_depth": 0.22,
+        "attack_time": 0.082,
+        "decay_time": 0.488,
+        "sustain_level": 0.23,
+        "release_time": 1.126,
+        "cutoff": 3370,
+        "resonance": 2.4,
+        "detune_mode": "clasic",
+        "detune_amount": 0.35
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "testing5_galaxoscilator_5_1_full",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T05:20:28.319490",
+    "tags": [],
+    "version": "5.5",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.17,
+        "lfo_freq": 20.0,
+        "lfo_depth": 1.0,
+        "attack_time": 0.5,
+        "decay_time": 2.0,
+        "sustain_level": 1.0,
+        "release_time": 5.0,
+        "cutoff": 20000.0,
+        "resonance": 10.0,
+        "detune_mode": "simetric",
+        "detune_amount": 2.0
+    }
+}

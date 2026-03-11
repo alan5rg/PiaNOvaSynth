@@ -1,0 +1,21 @@
+{
+    "name": "testing4_spacegun_4_4_75",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T05:19:23.378284",
+    "tags": [],
+    "version": "5.5",
+    "parameters": {
+        "waveform": "triangle",
+        "amplitude": 0.17,
+        "lfo_freq": 12.20716,
+        "lfo_depth": 0.83,
+        "attack_time": 0.394,
+        "decay_time": 1.544,
+        "sustain_level": 0.8,
+        "release_time": 4.166,
+        "cutoff": 15938,
+        "resonance": 8.0,
+        "detune_mode": "caos",
+        "detune_amount": 1.6
+    }
+}
